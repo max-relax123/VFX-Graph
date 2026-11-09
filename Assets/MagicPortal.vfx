@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7d4c867f6b72b714dbb5fd1780afe208, type: 3}
-  m_Name: Rain
+  m_Name: MagicPortal
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
   m_Parent: {fileID: 0}
@@ -137,7 +137,7 @@ VisualEffectResource:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Rain
+  m_Name: MagicPortal
   m_Graph: {fileID: 114350483966674976}
   m_Infos:
     m_RendererSettings:
@@ -4924,7 +4924,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Gradient, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"colorKeys":[{"color":{"r":0.0,"g":0.5805568695068359,"b":0.6320754289627075,"a":1.0},"time":0.4441138207912445},{"color":{"r":0.0,"g":0.3680591583251953,"b":0.38679248094558718,"a":1.0},"time":0.6235294342041016},{"color":{"r":0.0,"g":0.1992914229631424,"b":0.40566039085388186,"a":1.0},"time":0.7058823704719544}],"alphaKeys":[{"alpha":1.0,"time":0.0},{"alpha":1.0,"time":1.0}],"gradientMode":1}'
+      m_SerializableObject: '{"colorKeys":[{"color":{"r":0.21324199438095094,"g":0.0,"b":0.6313725709915161,"a":1.0},"time":0.24705882370471955},{"color":{"r":0.13906830549240113,"g":0.0,"b":0.5,"a":1.0},"time":0.4441138207912445},{"color":{"r":0.3207547068595886,"g":0.0,"b":0.2654540240764618,"a":1.0},"time":0.6735332012176514},{"color":{"r":0.5188679099082947,"g":0.0,"b":0.3081345558166504,"a":1.0},"time":0.7441214323043823}],"alphaKeys":[{"alpha":1.0,"time":0.0},{"alpha":1.0,"time":1.0}],"gradientMode":1}'
     m_Space: -1
   m_Property:
     name: Color
